@@ -8,7 +8,7 @@ I am currently working on Vinsup Infotech Private Limited<br>I am currently lear
 ###
 
 <div align="left">
-  Contact As
+
   <a href="https://www.youtube.com/channel/UCnV8AXljg_arrTd-X8U7Xxw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
