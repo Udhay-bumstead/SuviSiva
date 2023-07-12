@@ -1,8 +1,7 @@
 
 
 <h1>💫 About Me</h1>
-<h2 align="left">Hi 👋! My name is  SUVI SIVA </h2><br>
-<h2>I'm a Software Developer and Software Trainer</h2><br>
+<h2 align="left">Hi 👋! My name is  SUVI SIVA and I'm a Software Developer and Software Trainer</h2><br>
 
 I am currently working on Vinsup Infotech Private Limited<br>I am currently learning ML and AI<br><br>
 
