@@ -5,8 +5,8 @@ I am currently working on Vinsup Infotech Private Limited<br>I am currently lear
 
 ###
 <img align="right" height="300" src="https://www.pngitem.com/pimgs/m/219-2190173_niche-synergy-cartoon-of-software-engineer-hd-png.png"  />
-###
 
+<h1>Contact</h1>
 <div align="left">
 
   <a href="https://www.youtube.com/channel/UCnV8AXljg_arrTd-X8U7Xxw" target="_blank">
